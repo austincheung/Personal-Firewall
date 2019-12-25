@@ -1,0 +1,2 @@
+# Personal-Firewall
+In this task, you need to use LKM and Netfilter to implement the packet filtering module. This module will fetch the firewall policies from a data structure, and use the policies to decide whether packets should be blocked or not. To make your life easier, so you can focus on the filtering part, the core of firewalls, we allow you to hardcode your firewall policies in the program. 
